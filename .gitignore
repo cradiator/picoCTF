@@ -2,3 +2,4 @@
 Pipfile.lock
 */*.i64
 .vscode
+.DS_Store
